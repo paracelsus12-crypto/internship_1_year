@@ -4,7 +4,7 @@ Anaesthesia first-year training portal / Портал «Перший рік ан
 
 Інтерактивний навчальний портал для інтернів-анестезіологів першого року, побудований за посібником Lachlan Rathie, *The First Year — What You Should Know After a Year of Anaesthesia* (2016).
 
-**Живий портал:** https://paracelsus12-crypto.github.io/anesthesia-portal/
+**Живий портал:** [https://paracelsus12-crypto.github.io/internship_1_year/tools/index.html)]
 
 ---
 
